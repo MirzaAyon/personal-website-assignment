@@ -26,10 +26,21 @@ section{
     width: 80%;
 }
 .left-line{
-    border-left: 5px solid pink;
+    border-left: 3px solid pink;
+    
 }
 .develop-without-limit{
-    background-image: url(images/dream-bg.png);
+    background-image: url(images/shape-1.png);
+    background-size: 250px;
     background-repeat: no-repeat;
     background-position: left;
+}
+.community{
+    background-image: url(images/shape-1.png);
+    background-size: 245px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 93%;
+    background-position-y: 50vh;
+    ;
 }
